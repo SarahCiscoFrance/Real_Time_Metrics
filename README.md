@@ -1,5 +1,9 @@
 # Real-Time Environmental Metrics
 
+This macro and corresponding In-Room Control sample demonstrates how to display different sensors in a panel with a single button on the screen.
+
+![](https://github.com/SarahCiscoFrance/Real_Time_Metrics/blob/main/Real_Time_Metrics_Panel_Alert.png)
+
 ## Requirements
 
 + Cisco Webex Desk Pro
