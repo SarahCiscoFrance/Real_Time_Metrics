@@ -13,3 +13,13 @@ This macro and corresponding In-Room Control sample demonstrates how to display 
 ## Disclaimer
 
 This example is only a sample and is **NOT guaranteed to be bug free and production quality**.
+
+## Features
+
+RoomAnalytics AmbientTemperature
+RoomAnalytics RelativeHumidity
+RoomAnalytics AmbientNoise Level A
+RoomAnalytics Sound Level A
+RoomAnalytics AirQuality TVOCppb
+RoomAnalytics AirQuality Status
+RoomAnalytics PeopleCount Current
