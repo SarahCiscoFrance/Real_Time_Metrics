@@ -16,10 +16,10 @@ This example is only a sample and is **NOT guaranteed to be bug free and product
 
 ## Features
 
-RoomAnalytics AmbientTemperature
-RoomAnalytics RelativeHumidity
-RoomAnalytics AmbientNoise Level A
-RoomAnalytics Sound Level A
-RoomAnalytics AirQuality TVOCppb
-RoomAnalytics AirQuality Status
-RoomAnalytics PeopleCount Current
+- RoomAnalytics AmbientTemperature
+- RoomAnalytics RelativeHumidity
+- RoomAnalytics AmbientNoise Level A
+- RoomAnalytics Sound Level A
+- RoomAnalytics AirQuality TVOCppb
+- RoomAnalytics AirQuality Status
+- RoomAnalytics PeopleCount Current
